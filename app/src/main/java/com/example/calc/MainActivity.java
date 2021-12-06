@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button btn_add = findViewById(R.id.btn_add);
         Button btn_sub = findViewById(R.id.btn_sub);
+
         Button btn_mult = findViewById(R.id.btn_mult);
         Button btn_div = findViewById(R.id.btn_div);
 
